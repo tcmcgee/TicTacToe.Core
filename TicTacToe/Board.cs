@@ -99,5 +99,9 @@ namespace TicTacToe
             int[][] diagonalWins = new int[][] { leftDiag, rightDiag };
             return diagonalWins;
         }
+
+        public static void Main(string[] args)
+        {
+        }
     }
 }

@@ -10,7 +10,7 @@ namespace TicTacToeTests
         {
             HumanPlayer human = new HumanPlayer();
             Game game = new Game(9);
-            game.IO = new ConsoleIO(new MockedInput("5"), new MockedOutput());
+            game.IO = new MockedIO(new MockedInput("5"), new MockedOutput());
 
             int selection = human.GetMove(game);
 
@@ -22,7 +22,7 @@ namespace TicTacToeTests
         {
             HumanPlayer human = new HumanPlayer();
             Game game = new Game(16);
-            game.IO = new ConsoleIO(new MockedInput("16"), new MockedOutput());
+            game.IO = new MockedIO(new MockedInput("16"), new MockedOutput());
 
             int selection = human.GetMove(game);
 
