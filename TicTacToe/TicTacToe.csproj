@@ -72,16 +72,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Board.cs" />
+    <Compile Include="StartGame.cs" />
     <Compile Include="ComputerPlayer.cs" />
     <Compile Include="ConsoleOutput.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="HumanPlayer.cs" />
+    <Compile Include="IIO.cs" />
     <Compile Include="IPlayer.cs" />
     <Compile Include="IUserOutput.cs" />
     <Compile Include="ConsoleInput.cs" />
     <Compile Include="ConsoleIO.cs" />
     <Compile Include="IUserInput.cs" />
-    <Compile Include="StartGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
