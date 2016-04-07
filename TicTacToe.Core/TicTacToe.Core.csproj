@@ -66,10 +66,14 @@
     <Compile Include="IPlayer.cs" />
     <Compile Include="IUserOutput.cs" />
     <Compile Include="IUserInput.cs" />
+    <Compile Include="MockedInput.cs" />
+    <Compile Include="MockedOutput.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />

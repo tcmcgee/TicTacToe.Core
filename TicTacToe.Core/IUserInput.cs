@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TicTacToe.Core
+namespace TicTacToe
 {
     public interface IUserInput
     {

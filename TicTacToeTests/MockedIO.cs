@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
-using TicTacToe.Core;
+using TicTacToe;
 
 namespace TicTacToeTests
 {

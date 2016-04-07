@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace TicTacToe.Core
+namespace TicTacToe
 {
     public class ComputerPlayer : IPlayer
     {

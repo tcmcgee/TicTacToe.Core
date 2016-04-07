@@ -1,5 +1,5 @@
 ﻿using System;
-using TicTacToe.Core;
+using TicTacToe;
 using Xunit;
 
 namespace TicTacToeTests

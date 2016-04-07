@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TicTacToe;
-
-namespace TicTacToeTests
+﻿namespace TicTacToe
 {
-    internal class MockedInput : IUserInput
+    public class MockedInput : IUserInput
     {
         private string mockedInput;
 

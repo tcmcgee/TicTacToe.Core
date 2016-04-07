@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace TicTacToe.Core
+namespace TicTacToe
 {
     public class Game
     {
