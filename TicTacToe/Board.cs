@@ -15,7 +15,7 @@ namespace TicTacToe
             {
                 SetBoard(emptySmallBoard);
             }
-            else
+            else if (size == 16)
             {
                 SetBoard(emptyLargeBoard);
             }
