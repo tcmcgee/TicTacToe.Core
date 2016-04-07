@@ -81,9 +81,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TicTacToe\TicTacToe.csproj">
+    <ProjectReference Include="..\TicTacToe.Core\TicTacToe.Core.csproj">
       <Project>{28E563ED-070B-4A98-9A3E-A54DBB6F6A08}</Project>
-      <Name>TicTacToe</Name>
+      <Name>TicTacToe.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

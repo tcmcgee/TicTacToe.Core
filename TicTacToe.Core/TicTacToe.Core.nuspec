@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TicTacToe.Core</id>
+    <version>1.0.0</version>
+    <title>TicTacToe.Core</title>
+    <authors>Tom McGee</authors>
+    <owners>Tom McGee</owners>
+    <projectUrl>http://github.com/tcmcgee/TicTacToe.Core</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Nuget Package for TTT Game Logic</description>
+    <releaseNotes>First Release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>TicTacToe</tags>
+  </metadata>
+</package>

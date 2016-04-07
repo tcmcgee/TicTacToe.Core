@@ -1,4 +1,4 @@
-﻿namespace TicTacToe
+﻿namespace TicTacToe.Core
 {
     public interface IUserOutput
     {

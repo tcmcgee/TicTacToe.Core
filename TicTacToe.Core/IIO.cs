@@ -1,6 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
+using TicTacToe.Core;
 
-namespace TicTacToe
+namespace TicTacToe.Core
 {
     public interface IIO
     {
